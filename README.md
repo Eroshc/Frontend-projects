@@ -8,5 +8,5 @@ Enjoy!
 |  03 | [Clock](https://github.com/Eroshc/clock-project.git) | [Live Demo](https://clock-real.netlify.app/) |
 |  04 | [Calculator](https://github.com/Eroshc/calculator-project.git) | [Live Demo](https://calcu-functional.netlify.app/) |
 |  05 | [Sidebar](https://github.com/Eroshc/sidebar-project.git) | [Live Demo](https://sidebar-sato.netlify.app/) |
-|  06 | [Card Presentation](https://github.com/Eroshc/card-presentation.git)| [Live Demo](https://github.com/Eroshc/card-presentation.git) |
+|  06 | [Card Presentation](https://github.com/Eroshc/card-presentation.git)| [Live Demo](https://card-presen.netlify.app/) |
 |  07 | [Cards](https://github.com/Eroshc/cards-marvel.git) | [Live Demo](https://cards-marvel.netlify.app/)|
